@@ -36,3 +36,9 @@ We stay here for any questions..
 # Natrix - Best Free Scripts 
 ### Category : botting 
 ##### DevTeam: 1 (natrix_dev)
+
+[`Bot Status`]
+Instagram : 🟢
+Discord : 🟢
+Telegram : 🟢
+TikTok : 🔴
